@@ -43,11 +43,11 @@ body {
   </div>
   <div class="col-4">
     <label for="inputAddress" class="form-label">รหัสนักฟุตบอล</label>
-    <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
+    <input type="text" class="form-control" id="inputAddress" placeholder="">
   </div>
   <div class="col-2">
     <label for="inputAddress2" class="form-label">อายุ</label>
-    <input type="text" class="form-control" id="inputAddress2" placeholder="Apartment, studio, or floor">
+    <input type="text" class="form-control" id="inputAddress2" placeholder="">
   </div>
   <div class="col-md-2">
     <label for="inputCity" class="form-label">เพศ</label>
